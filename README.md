@@ -1,1 +1,26 @@
-Last updated: 2026-10-14 19:51:24 WIB
+# antonoocta.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **96 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-14 20:03:41 WIB*
